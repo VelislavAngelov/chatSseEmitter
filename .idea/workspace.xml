@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="543810ff-9043-4ba3-90cb-ccd2a37445c3" name="Changes" comment="Added Documentation">
+      <change beforePath="$PROJECT_DIR$/chat-SSE/src/test/java/com/example/chatSSE/controller/MessageControllerIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-SSE/src/test/java/com/example/chatSSE/controller/MessageControllerIntegrationTest.java" afterDir="false" />
+    </list>
+    <list id="dcd0b6c5-f196-46ba-95b7-0375c029ff5a" name="Changes by IvanM" comment="Added Documentation" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2GLGh59B5h59peILHvi86Ev8HuD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/angel/codeAcademy/team-3-lachezar&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;fbd34365f3a91bd52f4d433cfd646b6f&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.chatSSE.controllerTestNG" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ChatSseApplicationTests.contextLoads">
+    <configuration name="ChatSseApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chat-SSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.chatSSE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.chatSSE" />
+      <option name="MAIN_CLASS_NAME" value="com.example.chatSSE.ChatSseApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatSseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chat-SSE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.chatSSE.ChatSseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageControllerIntegrationTestNG.aSyncTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chat-SSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.chatSSE.controllerTestNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.chatSSE.controllerTestNG" />
+      <option name="MAIN_CLASS_NAME" value="com.example.chatSSE.controllerTestNG.MessageControllerIntegrationTestNG" />
+      <option name="METHOD_NAME" value="aSyncTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageControllerIntegrationTestNG.send_message_should_send_message" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chat-SSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.chatSSE.controllerTestNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.chatSSE.controllerTestNG" />
+      <option name="MAIN_CLASS_NAME" value="com.example.chatSSE.controllerTestNG.MessageControllerIntegrationTestNG" />
+      <option name="METHOD_NAME" value="send_message_should_send_message" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerIntegrationTestNG.create_user_should_return_UserDTO" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chat-SSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.chatSSE.controllerTestNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.chatSSE.controllerTestNG" />
+      <option name="MAIN_CLASS_NAME" value="com.example.chatSSE.controllerTestNG.UserControllerIntegrationTestNG" />
+      <option name="METHOD_NAME" value="create_user_should_return_UserDTO" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.chatSSE" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chat-SSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.chatSSE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.chatSSE" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ChatSseApplicationTests.contextLoads" />
+        <item itemvalue="TestNG.com.example.chatSSE" />
+        <item itemvalue="TestNG.UserControllerIntegrationTestNG.create_user_should_return_UserDTO" />
+        <item itemvalue="TestNG.MessageControllerIntegrationTestNG.send_message_should_send_message" />
+        <item itemvalue="TestNG.MessageControllerIntegrationTestNG.aSyncTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="543810ff-9043-4ba3-90cb-ccd2a37445c3" name="Changes" comment="" />
+      <created>1666160567041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666160567041</updated>
+      <workItem from="1666460379278" duration="416000" />
+      <workItem from="1666460807350" duration="1844000" />
+      <workItem from="1666521379643" duration="1270000" />
+      <workItem from="1666522662211" duration="10752000" />
+      <workItem from="1666556166800" duration="608000" />
+      <workItem from="1666602792713" duration="14346000" />
+      <workItem from="1666679273643" duration="5354000" />
+      <workItem from="1666696329082" duration="4708000" />
+      <workItem from="1666712237114" duration="11000" />
+      <workItem from="1666769741532" duration="1121000" />
+      <workItem from="1666770924632" duration="4396000" />
+      <workItem from="1666797971706" duration="6417000" />
+      <workItem from="1666816771816" duration="8000" />
+      <workItem from="1666851851508" duration="15436000" />
+      <workItem from="1666869506111" duration="1933000" />
+      <workItem from="1666871813728" duration="1441000" />
+      <workItem from="1666892037603" duration="879000" />
+      <workItem from="1666945591970" duration="19261000" />
+      <workItem from="1667024345260" duration="25432000" />
+      <workItem from="1667119576637" duration="5783000" />
+      <workItem from="1667138614436" duration="3934000" />
+      <workItem from="1667151295125" duration="13419000" />
+      <workItem from="1667166345278" duration="344000" />
+      <workItem from="1667203016436" duration="15448000" />
+      <workItem from="1667288498959" duration="19122000" />
+      <workItem from="1667311615759" duration="42000" />
+      <workItem from="1667312363832" duration="94000" />
+      <workItem from="1667313254511" duration="7648000" />
+      <workItem from="1667375859908" duration="5338000" />
+      <workItem from="1667399180803" duration="7267000" />
+      <workItem from="1667415762935" duration="7588000" />
+      <workItem from="1667457384792" duration="4770000" />
+      <workItem from="1667468738815" duration="12343000" />
+      <workItem from="1667579076119" duration="1246000" />
+      <workItem from="1667580345750" duration="7346000" />
+      <workItem from="1667827429868" duration="4835000" />
+      <workItem from="1667900393205" duration="158000" />
+      <workItem from="1667929402615" duration="1237000" />
+      <workItem from="1668026301997" duration="8000" />
+      <workItem from="1668098939866" duration="22000" />
+      <workItem from="1668104561199" duration="1630000" />
+      <workItem from="1668190198174" duration="1295000" />
+      <workItem from="1668242891354" duration="458000" />
+      <workItem from="1668283814977" duration="2246000" />
+    </task>
+    <task id="LOCAL-00001" summary="Validate findById method">
+      <created>1666165484415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666165484415</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fix bug Dao">
+      <created>1666441640910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666441640910</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Close Branch">
+      <created>1666442038860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666442038860</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Working on SseEmitter">
+      <created>1666538184295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666538184295</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Close Branch">
+      <created>1666538291544</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666538291544</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added integration tests">
+      <created>1666865821244</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666865821244</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Close Branch">
+      <created>1666865913242</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666865913242</updated>
+    </task>
+    <task id="LOCAL-00008" summary="serviceTest">
+      <created>1667064589492</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667064589492</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Close Branch">
+      <created>1667064664533</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667064664533</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added Documentation">
+      <created>1667307210454</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667307210454</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Close Branch">
+      <created>1667307277624</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667307277624</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Validate findById method" />
+    <MESSAGE value="Fix bug Dao" />
+    <MESSAGE value="Working on SseEmitter" />
+    <MESSAGE value="Added integration tests" />
+    <MESSAGE value="serviceTest" />
+    <MESSAGE value="Changes by IvanM" />
+    <MESSAGE value="Added Documentation" />
+    <MESSAGE value="Close Branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Close Branch" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="user" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="user.isOnline" />
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/team_3_lachezar$_default_.ic" NAME="&lt;default&gt; Coverage Results" MODIFIED="1667306275140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/team_3_lachezar$com_example_chatSSE.ic" NAME="com.example.chatSSE Coverage Results" MODIFIED="1667900496418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.chatSSE.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/team_3_lachezar$com_example_chatSSE_in_chat_SSE.ic" NAME="com.example.chatSSE in chat-SSE Coverage Results" MODIFIED="1667459391707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.chatSSE.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+</project>
